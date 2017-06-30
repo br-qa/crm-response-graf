@@ -1,0 +1,15 @@
+{
+  "name": "AlexG/Graf",
+  "description": "Graf - crm response time",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AlexG",
+      "email": "alexge@gtech-media.com"
+    }
+  ],
+  "require": {
+    "symphony/symphony": "dev-master"
+  }
+}
